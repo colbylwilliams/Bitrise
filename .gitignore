@@ -212,4 +212,4 @@ Thumbs.db
 *.dmg
 *.app
 
-Bitrise/PrivateKeys/
+Bitrise/PrivateKeys/PrivateKeys.cs
